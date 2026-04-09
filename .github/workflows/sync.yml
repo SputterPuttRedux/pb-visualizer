@@ -1,0 +1,37 @@
+name: Sync Powerball Data
+
+on:
+  schedule:
+    # Draws are Monday, Wednesday, Saturday at 10:59pm ET
+    # Running 24 hours later: Tuesday, Thursday, Sunday at ~11pm ET (03:00 UTC next day)
+    - cron: '0 3 * * 2'   # Tuesday  03:00 UTC (Mon draw)
+    - cron: '0 3 * * 4'   # Thursday 03:00 UTC (Wed draw)
+    - cron: '0 3 * * 0'   # Sunday   03:00 UTC (Sat draw)
+  workflow_dispatch:       # allow manual trigger from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Run sync script
+        run: ruby lib/powerball_sync.rb
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/powerball_data.json
+          git diff --cached --quiet || git commit -m "chore: update powerball data [skip ci]"
+          git push

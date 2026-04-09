@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Powerball Winning Combo Index Over Time</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      min-height: 100vh;
+      padding: 20px;
+      color: #fff;
+    }
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 10px;
+      font-size: 2rem;
+      background: linear-gradient(90deg, #f39c12, #e74c3c);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .subtitle {
+      text-align: center;
+      color: #8892b0;
+      margin-bottom: 30px;
+      font-size: 0.95rem;
+    }
+    .chart-container {
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 20px;
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      margin-bottom: 20px;
+    }
+    .stat-card {
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .stat-value {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #f39c12;
+    }
+    .stat-label {
+      color: #8892b0;
+      font-size: 0.85rem;
+      margin-top: 5px;
+    }
+    .legend-custom {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin-top: 15px;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.9rem;
+      color: #ccd6f6;
+    }
+    .legend-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+    }
+    .legend-dot.winner {
+      background: #e74c3c;
+      box-shadow: 0 0 10px #e74c3c;
+    }
+    .legend-dot.no-winner {
+      background: #3498db;
+    }
+    .info {
+      text-align: center;
+      color: #8892b0;
+      font-size: 0.85rem;
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎱 Powerball Winning Combo Index Analysis</h1>
+    <p class="subtitle">Visualizing where winning combinations fall in the ~292M combination space (Oct 2015 - Present)</p>
+    
+    <div class="stats">
+      <div class="stat-card">
+        <div class="stat-value" id="totalDraws">-</div>
+        <div class="stat-label">Total Draws</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="jackpotWinners">-</div>
+        <div class="stat-label">Jackpot Winners</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="avgIndex">-</div>
+        <div class="stat-label">Avg Combo Index</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="winRate">-</div>
+        <div class="stat-label">Win Rate</div>
+      </div>
+    </div>
+
+    <div class="chart-container">
+      <canvas id="powerballChart"></canvas>
+      <div class="legend-custom">
+        <div class="legend-item">
+          <div class="legend-dot no-winner"></div>
+          <span>No Jackpot Winner</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot winner"></div>
+          <span>Jackpot Winner</span>
+        </div>
+      </div>
+    </div>
+
+    <p class="info">
+      Index range: 0 to 292,201,337 (all possible Powerball combinations)<br>
+      Hover over points to see details. Winner draws are highlighted in red.
+    </p>
+  </div>
+
+  <script>
+    fetch('./data/powerball_data.json')
+      .then(function(response) {
+        if (!response.ok) throw new Error('Failed to load data: ' + response.status);
+        return response.json();
+      })
+      .then(function(data) {
+
+    // Calculate stats
+    const totalDraws = data.length;
+    const jackpotWinners = data.filter(d => d.hasWinner).length;
+    const avgIndex = Math.round(data.reduce((sum, d) => sum + d.winningComboIndex, 0) / data.length);
+    const winRate = ((jackpotWinners / totalDraws) * 100).toFixed(1);
+
+    document.getElementById('totalDraws').textContent = totalDraws.toLocaleString();
+    document.getElementById('jackpotWinners').textContent = jackpotWinners;
+    document.getElementById('avgIndex').textContent = avgIndex.toLocaleString();
+    document.getElementById('winRate').textContent = winRate + '%';
+
+    // Prepare chart data - line chart with all points
+    const labels = data.map(d => d.date);
+    const indices = data.map(d => d.winningComboIndex);
+    
+    // Point colors: red for winners, blue for non-winners
+    const pointBackgroundColors = data.map(d => 
+      d.hasWinner ? 'rgba(231, 76, 60, 1)' : 'rgba(52, 152, 219, 0.7)'
+    );
+    const pointBorderColors = data.map(d => 
+      d.hasWinner ? 'rgba(231, 76, 60, 1)' : 'rgba(52, 152, 219, 1)'
+    );
+    const pointRadii = data.map(d => d.hasWinner ? 6 : 3);
+
+    const ctx = document.getElementById('powerballChart').getContext('2d');
+    
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            label: 'Winning Combo Index',
+            data: indices,
+            borderColor: 'rgba(52, 152, 219, 0.4)',
+            borderWidth: 1,
+            pointBackgroundColor: pointBackgroundColors,
+            pointBorderColor: pointBorderColors,
+            pointRadius: pointRadii,
+            pointHoverRadius: 8,
+            fill: false,
+            tension: 0
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: true,
+        aspectRatio: 2.5,
+        plugins: {
+          legend: {
+            display: false
+          },
+          tooltip: {
+            backgroundColor: 'rgba(0, 0, 0, 0.8)',
+            titleFont: { size: 14 },
+            bodyFont: { size: 13 },
+            padding: 12,
+            callbacks: {
+              title: function(context) {
+                const idx = context[0].dataIndex;
+                return 'Draw Date: ' + data[idx].date;
+              },
+              label: function(context) {
+                const idx = context.dataIndex;
+                const index = data[idx].winningComboIndex;
+                const percentage = ((index / 292201338) * 100).toFixed(4);
+                const hasWinner = data[idx].hasWinner;
+                return [
+                  'Combo Index: ' + index.toLocaleString(),
+                  'Position: ' + percentage + '% through combo space',
+                  hasWinner ? '🎉 Jackpot Winner!' : 'No Jackpot Winner'
+                ];
+              }
+            }
+          }
+        },
+        scales: {
+          x: {
+            type: 'time',
+            time: {
+              unit: 'month',
+              displayFormats: {
+                month: 'MMM yyyy'
+              }
+            },
+            title: {
+              display: true,
+              text: 'Draw Date',
+              color: '#8892b0',
+              font: { size: 14 }
+            },
+            ticks: {
+              color: '#8892b0',
+              maxTicksLimit: 20
+            },
+            grid: {
+              color: 'rgba(255, 255, 255, 0.05)'
+            }
+          },
+          y: {
+            title: {
+              display: true,
+              text: 'Winning Combo Index',
+              color: '#8892b0',
+              font: { size: 14 }
+            },
+            ticks: {
+              color: '#8892b0',
+              callback: function(value) {
+                return (value / 1000000).toFixed(0) + 'M';
+              }
+            },
+            grid: {
+              color: 'rgba(255, 255, 255, 0.05)'
+            },
+            min: 0,
+            max: 292201338
+          }
+        }
+      }
+    });
+      })
+      .catch(function(err) {
+        console.error(err);
+        document.body.insertAdjacentHTML('afterbegin', '<p style="color:red;padding:1rem;">Error loading data: ' + err.message + '</p>');
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,6397 @@
+[
+  {
+    "date": "2015-10-07",
+    "winningComboIndex": 228886328,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-10-10",
+    "winningComboIndex": 180161020,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-10-14",
+    "winningComboIndex": 204191364,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-10-17",
+    "winningComboIndex": 291540020,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-10-21",
+    "winningComboIndex": 275436080,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-10-24",
+    "winningComboIndex": 240694637,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-10-28",
+    "winningComboIndex": 77400605,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-10-31",
+    "winningComboIndex": 144342854,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-11-04",
+    "winningComboIndex": 30226940,
+    "hasWinner": true
+  },
+  {
+    "date": "2015-11-07",
+    "winningComboIndex": 115992618,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-11-11",
+    "winningComboIndex": 74031065,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-11-14",
+    "winningComboIndex": 196979826,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-11-18",
+    "winningComboIndex": 223919077,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-11-21",
+    "winningComboIndex": 286746324,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-11-25",
+    "winningComboIndex": 215197392,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-11-28",
+    "winningComboIndex": 25575005,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-02",
+    "winningComboIndex": 194729088,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-05",
+    "winningComboIndex": 189784256,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-09",
+    "winningComboIndex": 111505992,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-12",
+    "winningComboIndex": 31706007,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-16",
+    "winningComboIndex": 138157219,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-19",
+    "winningComboIndex": 270492075,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-23",
+    "winningComboIndex": 216761530,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-26",
+    "winningComboIndex": 269405363,
+    "hasWinner": false
+  },
+  {
+    "date": "2015-12-30",
+    "winningComboIndex": 182152849,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-02",
+    "winningComboIndex": 77810833,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-06",
+    "winningComboIndex": 30030718,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-09",
+    "winningComboIndex": 211383912,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-13",
+    "winningComboIndex": 63343107,
+    "hasWinner": true
+  },
+  {
+    "date": "2016-01-16",
+    "winningComboIndex": 59743091,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-20",
+    "winningComboIndex": 93185687,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-23",
+    "winningComboIndex": 250421020,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-27",
+    "winningComboIndex": 49472352,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-01-30",
+    "winningComboIndex": 83065727,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-03",
+    "winningComboIndex": 264320442,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-06",
+    "winningComboIndex": 67661185,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-10",
+    "winningComboIndex": 22264116,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-13",
+    "winningComboIndex": 115158595,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-17",
+    "winningComboIndex": 116596920,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-20",
+    "winningComboIndex": 162114938,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-24",
+    "winningComboIndex": 245761754,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-02-27",
+    "winningComboIndex": 150526055,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-02",
+    "winningComboIndex": 173723503,
+    "hasWinner": true
+  },
+  {
+    "date": "2016-03-05",
+    "winningComboIndex": 56759682,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-09",
+    "winningComboIndex": 197293202,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-12",
+    "winningComboIndex": 170406206,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-16",
+    "winningComboIndex": 151037244,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-19",
+    "winningComboIndex": 168752924,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-23",
+    "winningComboIndex": 79722264,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-26",
+    "winningComboIndex": 168743879,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-03-30",
+    "winningComboIndex": 260089614,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-02",
+    "winningComboIndex": 147320604,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-06",
+    "winningComboIndex": 74780548,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-09",
+    "winningComboIndex": 196711328,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-13",
+    "winningComboIndex": 275532317,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-16",
+    "winningComboIndex": 52981658,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-20",
+    "winningComboIndex": 179565705,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-23",
+    "winningComboIndex": 235860390,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-27",
+    "winningComboIndex": 37375874,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-04-30",
+    "winningComboIndex": 48943635,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-05-04",
+    "winningComboIndex": 277035644,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-05-07",
+    "winningComboIndex": 90105738,
+    "hasWinner": true
+  },
+  {
+    "date": "2016-05-11",
+    "winningComboIndex": 240887422,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-05-14",
+    "winningComboIndex": 189935520,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-05-18",
+    "winningComboIndex": 252923850,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-05-21",
+    "winningComboIndex": 78542463,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-05-25",
+    "winningComboIndex": 169105964,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-05-28",
+    "winningComboIndex": 107747911,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-01",
+    "winningComboIndex": 254226997,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-04",
+    "winningComboIndex": 211650572,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-08",
+    "winningComboIndex": 179677153,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-11",
+    "winningComboIndex": 239560184,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-15",
+    "winningComboIndex": 72418589,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-18",
+    "winningComboIndex": 36771212,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-22",
+    "winningComboIndex": 201051074,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-25",
+    "winningComboIndex": 56787144,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-06-29",
+    "winningComboIndex": 254055547,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-02",
+    "winningComboIndex": 160567033,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-06",
+    "winningComboIndex": 37007481,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-09",
+    "winningComboIndex": 159199389,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-13",
+    "winningComboIndex": 51358745,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-16",
+    "winningComboIndex": 165927839,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-20",
+    "winningComboIndex": 105764676,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-23",
+    "winningComboIndex": 79049994,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-27",
+    "winningComboIndex": 161819733,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-07-30",
+    "winningComboIndex": 165549882,
+    "hasWinner": true
+  },
+  {
+    "date": "2016-08-03",
+    "winningComboIndex": 138872371,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-06",
+    "winningComboIndex": 240942505,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-10",
+    "winningComboIndex": 256541361,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-13",
+    "winningComboIndex": 287452287,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-17",
+    "winningComboIndex": 282036099,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-20",
+    "winningComboIndex": 43903259,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-24",
+    "winningComboIndex": 138826287,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-27",
+    "winningComboIndex": 75687397,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-08-31",
+    "winningComboIndex": 81759559,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-09-03",
+    "winningComboIndex": 123216338,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-09-07",
+    "winningComboIndex": 247802484,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-09-10",
+    "winningComboIndex": 52770309,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-09-14",
+    "winningComboIndex": 150587281,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-09-17",
+    "winningComboIndex": 144190449,
+    "hasWinner": true
+  },
+  {
+    "date": "2016-09-21",
+    "winningComboIndex": 18540434,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-09-24",
+    "winningComboIndex": 115232723,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-09-28",
+    "winningComboIndex": 276392558,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-01",
+    "winningComboIndex": 30806152,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-05",
+    "winningComboIndex": 130707110,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-08",
+    "winningComboIndex": 59803960,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-12",
+    "winningComboIndex": 215267275,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-15",
+    "winningComboIndex": 256429725,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-19",
+    "winningComboIndex": 154296372,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-22",
+    "winningComboIndex": 18352641,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-26",
+    "winningComboIndex": 21748893,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-10-29",
+    "winningComboIndex": 231145430,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-02",
+    "winningComboIndex": 186256802,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-05",
+    "winningComboIndex": 245733053,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-09",
+    "winningComboIndex": 17348631,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-12",
+    "winningComboIndex": 129982811,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-16",
+    "winningComboIndex": 272182670,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-19",
+    "winningComboIndex": 213429834,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-23",
+    "winningComboIndex": 122146702,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-11-26",
+    "winningComboIndex": 218177325,
+    "hasWinner": true
+  },
+  {
+    "date": "2016-11-30",
+    "winningComboIndex": 50407090,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-03",
+    "winningComboIndex": 125346047,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-07",
+    "winningComboIndex": 289457551,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-10",
+    "winningComboIndex": 178067592,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-14",
+    "winningComboIndex": 227776758,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-17",
+    "winningComboIndex": 6985585,
+    "hasWinner": true
+  },
+  {
+    "date": "2016-12-21",
+    "winningComboIndex": 262335816,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-24",
+    "winningComboIndex": 271818424,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-28",
+    "winningComboIndex": 213100995,
+    "hasWinner": false
+  },
+  {
+    "date": "2016-12-31",
+    "winningComboIndex": 2156344,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-04",
+    "winningComboIndex": 210283245,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-07",
+    "winningComboIndex": 49188941,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-11",
+    "winningComboIndex": 1678063,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-14",
+    "winningComboIndex": 256532314,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-18",
+    "winningComboIndex": 149495903,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-21",
+    "winningComboIndex": 252975971,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-25",
+    "winningComboIndex": 228491739,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-01-28",
+    "winningComboIndex": 177717296,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-02-01",
+    "winningComboIndex": 149806523,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-02-04",
+    "winningComboIndex": 99257780,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-02-08",
+    "winningComboIndex": 196163686,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-02-11",
+    "winningComboIndex": 80697865,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-02-15",
+    "winningComboIndex": 91132566,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-02-18",
+    "winningComboIndex": 44428299,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-02-22",
+    "winningComboIndex": 152204833,
+    "hasWinner": true
+  },
+  {
+    "date": "2017-02-25",
+    "winningComboIndex": 107693448,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-01",
+    "winningComboIndex": 154322938,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-04",
+    "winningComboIndex": 34067220,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-08",
+    "winningComboIndex": 254947293,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-11",
+    "winningComboIndex": 17875400,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-15",
+    "winningComboIndex": 215359939,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-18",
+    "winningComboIndex": 189293992,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-22",
+    "winningComboIndex": 28104500,
+    "hasWinner": true
+  },
+  {
+    "date": "2017-03-25",
+    "winningComboIndex": 228996835,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-03-29",
+    "winningComboIndex": 129067728,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-01",
+    "winningComboIndex": 148335070,
+    "hasWinner": true
+  },
+  {
+    "date": "2017-04-05",
+    "winningComboIndex": 131965170,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-08",
+    "winningComboIndex": 255473232,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-12",
+    "winningComboIndex": 128654211,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-15",
+    "winningComboIndex": 88998272,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-19",
+    "winningComboIndex": 15046240,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-22",
+    "winningComboIndex": 246878091,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-26",
+    "winningComboIndex": 12386087,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-04-29",
+    "winningComboIndex": 247699794,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-03",
+    "winningComboIndex": 218100072,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-06",
+    "winningComboIndex": 167777812,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-10",
+    "winningComboIndex": 273125665,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-13",
+    "winningComboIndex": 218917158,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-17",
+    "winningComboIndex": 66299930,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-20",
+    "winningComboIndex": 89267492,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-24",
+    "winningComboIndex": 270801896,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-27",
+    "winningComboIndex": 81851154,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-05-31",
+    "winningComboIndex": 75800327,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-06-03",
+    "winningComboIndex": 46702784,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-06-07",
+    "winningComboIndex": 88899134,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-06-10",
+    "winningComboIndex": 239199274,
+    "hasWinner": true
+  },
+  {
+    "date": "2017-06-14",
+    "winningComboIndex": 89257061,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-06-17",
+    "winningComboIndex": 152280434,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-06-21",
+    "winningComboIndex": 201521670,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-06-24",
+    "winningComboIndex": 157181761,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-06-28",
+    "winningComboIndex": 274108959,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-01",
+    "winningComboIndex": 236598767,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-05",
+    "winningComboIndex": 64153902,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-08",
+    "winningComboIndex": 125422543,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-12",
+    "winningComboIndex": 676944,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-15",
+    "winningComboIndex": 149583632,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-19",
+    "winningComboIndex": 291815423,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-22",
+    "winningComboIndex": 92183684,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-26",
+    "winningComboIndex": 117508649,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-07-29",
+    "winningComboIndex": 18438249,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-02",
+    "winningComboIndex": 13548331,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-05",
+    "winningComboIndex": 167713062,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-09",
+    "winningComboIndex": 181049994,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-12",
+    "winningComboIndex": 238412504,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-16",
+    "winningComboIndex": 141910811,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-19",
+    "winningComboIndex": 218526528,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-23",
+    "winningComboIndex": 94310219,
+    "hasWinner": true
+  },
+  {
+    "date": "2017-08-26",
+    "winningComboIndex": 115518560,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-08-30",
+    "winningComboIndex": 234412912,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-02",
+    "winningComboIndex": 104303341,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-06",
+    "winningComboIndex": 128452574,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-09",
+    "winningComboIndex": 103683679,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-13",
+    "winningComboIndex": 220597044,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-16",
+    "winningComboIndex": 217736451,
+    "hasWinner": true
+  },
+  {
+    "date": "2017-09-20",
+    "winningComboIndex": 288325959,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-23",
+    "winningComboIndex": 260147516,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-27",
+    "winningComboIndex": 125212485,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-09-30",
+    "winningComboIndex": 126898942,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-10-04",
+    "winningComboIndex": 248074733,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-10-07",
+    "winningComboIndex": 161907362,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-10-11",
+    "winningComboIndex": 1682716,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-10-14",
+    "winningComboIndex": 279925526,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-10-18",
+    "winningComboIndex": 277093759,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-10-21",
+    "winningComboIndex": 201137953,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-10-25",
+    "winningComboIndex": 226228347,
+    "hasWinner": true
+  },
+  {
+    "date": "2017-10-28",
+    "winningComboIndex": 268759513,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-01",
+    "winningComboIndex": 43820166,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-04",
+    "winningComboIndex": 174142344,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-08",
+    "winningComboIndex": 173959885,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-11",
+    "winningComboIndex": 61328271,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-15",
+    "winningComboIndex": 254778808,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-18",
+    "winningComboIndex": 221757925,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-22",
+    "winningComboIndex": 283981476,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-25",
+    "winningComboIndex": 127671963,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-11-29",
+    "winningComboIndex": 256948447,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-02",
+    "winningComboIndex": 270362409,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-06",
+    "winningComboIndex": 231577042,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-09",
+    "winningComboIndex": 262769629,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-13",
+    "winningComboIndex": 36947176,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-16",
+    "winningComboIndex": 148862672,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-20",
+    "winningComboIndex": 15663511,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-23",
+    "winningComboIndex": 1676712,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-27",
+    "winningComboIndex": 46551338,
+    "hasWinner": false
+  },
+  {
+    "date": "2017-12-30",
+    "winningComboIndex": 271563627,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-03",
+    "winningComboIndex": 34464103,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-06",
+    "winningComboIndex": 180706239,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-01-10",
+    "winningComboIndex": 119890319,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-13",
+    "winningComboIndex": 198067009,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-17",
+    "winningComboIndex": 58176424,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-20",
+    "winningComboIndex": 264495480,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-24",
+    "winningComboIndex": 80466744,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-27",
+    "winningComboIndex": 219242016,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-01-31",
+    "winningComboIndex": 62251327,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-03",
+    "winningComboIndex": 205428891,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-07",
+    "winningComboIndex": 255033645,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-10",
+    "winningComboIndex": 11315895,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-14",
+    "winningComboIndex": 286186653,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-17",
+    "winningComboIndex": 189563895,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-21",
+    "winningComboIndex": 115497077,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-24",
+    "winningComboIndex": 256788485,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-02-28",
+    "winningComboIndex": 181194769,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-03-03",
+    "winningComboIndex": 185488424,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-03-07",
+    "winningComboIndex": 99377971,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-03-10",
+    "winningComboIndex": 290149595,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-03-14",
+    "winningComboIndex": 98802244,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-03-17",
+    "winningComboIndex": 252301900,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-03-21",
+    "winningComboIndex": 41676230,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-03-24",
+    "winningComboIndex": 160447687,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-03-28",
+    "winningComboIndex": 95558262,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-03-31",
+    "winningComboIndex": 133629386,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-04",
+    "winningComboIndex": 133570733,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-07",
+    "winningComboIndex": 33571739,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-11",
+    "winningComboIndex": 210791221,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-14",
+    "winningComboIndex": 218318790,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-18",
+    "winningComboIndex": 137572300,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-21",
+    "winningComboIndex": 289000548,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-25",
+    "winningComboIndex": 218023245,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-04-28",
+    "winningComboIndex": 237700015,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-02",
+    "winningComboIndex": 84866189,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-05",
+    "winningComboIndex": 199233622,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-09",
+    "winningComboIndex": 165331548,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-12",
+    "winningComboIndex": 251807283,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-16",
+    "winningComboIndex": 218162300,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-19",
+    "winningComboIndex": 43429384,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-05-23",
+    "winningComboIndex": 242578550,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-26",
+    "winningComboIndex": 15887892,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-05-30",
+    "winningComboIndex": 220058091,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-02",
+    "winningComboIndex": 252895298,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-06",
+    "winningComboIndex": 253840067,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-09",
+    "winningComboIndex": 96947669,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-13",
+    "winningComboIndex": 187252910,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-16",
+    "winningComboIndex": 149918478,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-20",
+    "winningComboIndex": 68159402,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-06-23",
+    "winningComboIndex": 215138272,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-27",
+    "winningComboIndex": 121192592,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-06-30",
+    "winningComboIndex": 46674339,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-04",
+    "winningComboIndex": 62284881,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-07",
+    "winningComboIndex": 9265823,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-11",
+    "winningComboIndex": 231748848,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-14",
+    "winningComboIndex": 251705516,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-18",
+    "winningComboIndex": 9020061,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-21",
+    "winningComboIndex": 145950298,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-25",
+    "winningComboIndex": 34511983,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-07-28",
+    "winningComboIndex": 249360552,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-01",
+    "winningComboIndex": 89112139,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-04",
+    "winningComboIndex": 48685209,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-08",
+    "winningComboIndex": 156729992,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-11",
+    "winningComboIndex": 93567315,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-08-15",
+    "winningComboIndex": 174830333,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-18",
+    "winningComboIndex": 259055773,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-22",
+    "winningComboIndex": 6611396,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-25",
+    "winningComboIndex": 239079107,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-08-29",
+    "winningComboIndex": 263416437,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-01",
+    "winningComboIndex": 173020544,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-05",
+    "winningComboIndex": 101202178,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-08",
+    "winningComboIndex": 49794388,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-12",
+    "winningComboIndex": 106783193,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-15",
+    "winningComboIndex": 34068816,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-19",
+    "winningComboIndex": 76692210,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-22",
+    "winningComboIndex": 260432995,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-26",
+    "winningComboIndex": 242431,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-09-29",
+    "winningComboIndex": 142991701,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-03",
+    "winningComboIndex": 289595126,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-06",
+    "winningComboIndex": 16234856,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-10",
+    "winningComboIndex": 132972846,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-13",
+    "winningComboIndex": 163988306,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-17",
+    "winningComboIndex": 59828068,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-20",
+    "winningComboIndex": 217547768,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-24",
+    "winningComboIndex": 54726043,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-10-27",
+    "winningComboIndex": 126499571,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-10-31",
+    "winningComboIndex": 120309065,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-03",
+    "winningComboIndex": 204530622,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-07",
+    "winningComboIndex": 264360978,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-10",
+    "winningComboIndex": 91414281,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-14",
+    "winningComboIndex": 123468796,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-17",
+    "winningComboIndex": 95400478,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-21",
+    "winningComboIndex": 114680713,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-24",
+    "winningComboIndex": 171511253,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-11-28",
+    "winningComboIndex": 71453324,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-01",
+    "winningComboIndex": 150961589,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-05",
+    "winningComboIndex": 139015432,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-08",
+    "winningComboIndex": 199859409,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-12",
+    "winningComboIndex": 64295633,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-15",
+    "winningComboIndex": 136633916,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-19",
+    "winningComboIndex": 207367019,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-22",
+    "winningComboIndex": 244799983,
+    "hasWinner": false
+  },
+  {
+    "date": "2018-12-26",
+    "winningComboIndex": 90314039,
+    "hasWinner": true
+  },
+  {
+    "date": "2018-12-29",
+    "winningComboIndex": 182855762,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-02",
+    "winningComboIndex": 127170275,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-05",
+    "winningComboIndex": 44669942,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-09",
+    "winningComboIndex": 103329351,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-12",
+    "winningComboIndex": 122854781,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-16",
+    "winningComboIndex": 199155814,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-19",
+    "winningComboIndex": 80310379,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-23",
+    "winningComboIndex": 252986211,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-26",
+    "winningComboIndex": 126743925,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-01-30",
+    "winningComboIndex": 30202463,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-02",
+    "winningComboIndex": 154446434,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-06",
+    "winningComboIndex": 84125074,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-09",
+    "winningComboIndex": 5822,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-13",
+    "winningComboIndex": 26826409,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-16",
+    "winningComboIndex": 272863812,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-20",
+    "winningComboIndex": 269928361,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-23",
+    "winningComboIndex": 61243298,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-02-27",
+    "winningComboIndex": 245680990,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-02",
+    "winningComboIndex": 14819448,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-06",
+    "winningComboIndex": 97153156,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-09",
+    "winningComboIndex": 78421473,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-13",
+    "winningComboIndex": 230003215,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-16",
+    "winningComboIndex": 275761548,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-20",
+    "winningComboIndex": 153139396,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-23",
+    "winningComboIndex": 256887362,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-03-27",
+    "winningComboIndex": 211943795,
+    "hasWinner": true
+  },
+  {
+    "date": "2019-03-30",
+    "winningComboIndex": 247607415,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-03",
+    "winningComboIndex": 211239539,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-06",
+    "winningComboIndex": 208375525,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-10",
+    "winningComboIndex": 177871439,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-13",
+    "winningComboIndex": 70066681,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-17",
+    "winningComboIndex": 12370216,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-20",
+    "winningComboIndex": 56692896,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-24",
+    "winningComboIndex": 107564707,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-04-27",
+    "winningComboIndex": 38633795,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-01",
+    "winningComboIndex": 89441940,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-04",
+    "winningComboIndex": 101423687,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-08",
+    "winningComboIndex": 20882812,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-11",
+    "winningComboIndex": 94979715,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-15",
+    "winningComboIndex": 116730019,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-18",
+    "winningComboIndex": 28924739,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-22",
+    "winningComboIndex": 111634850,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-25",
+    "winningComboIndex": 1131417,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-05-29",
+    "winningComboIndex": 57944516,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-01",
+    "winningComboIndex": 101050983,
+    "hasWinner": true
+  },
+  {
+    "date": "2019-06-05",
+    "winningComboIndex": 220092113,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-08",
+    "winningComboIndex": 140570733,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-12",
+    "winningComboIndex": 92631928,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-15",
+    "winningComboIndex": 125774025,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-19",
+    "winningComboIndex": 70472844,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-22",
+    "winningComboIndex": 43512970,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-26",
+    "winningComboIndex": 4016659,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-06-29",
+    "winningComboIndex": 185476961,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-03",
+    "winningComboIndex": 288667728,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-06",
+    "winningComboIndex": 63474632,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-10",
+    "winningComboIndex": 110948060,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-13",
+    "winningComboIndex": 188426674,
+    "hasWinner": true
+  },
+  {
+    "date": "2019-07-17",
+    "winningComboIndex": 236683859,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-20",
+    "winningComboIndex": 90613242,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-24",
+    "winningComboIndex": 249783728,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-27",
+    "winningComboIndex": 14961185,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-07-31",
+    "winningComboIndex": 200776113,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-03",
+    "winningComboIndex": 44301178,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-07",
+    "winningComboIndex": 135762902,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-10",
+    "winningComboIndex": 284372818,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-14",
+    "winningComboIndex": 152244153,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-17",
+    "winningComboIndex": 225678251,
+    "hasWinner": true
+  },
+  {
+    "date": "2019-08-21",
+    "winningComboIndex": 177834664,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-24",
+    "winningComboIndex": 83184816,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-28",
+    "winningComboIndex": 148345717,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-08-31",
+    "winningComboIndex": 201193659,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-09-04",
+    "winningComboIndex": 63634585,
+    "hasWinner": true
+  },
+  {
+    "date": "2019-09-07",
+    "winningComboIndex": 167462885,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-09-11",
+    "winningComboIndex": 102040070,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-09-14",
+    "winningComboIndex": 169923010,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-09-18",
+    "winningComboIndex": 195653706,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-09-21",
+    "winningComboIndex": 8060151,
+    "hasWinner": true
+  },
+  {
+    "date": "2019-09-25",
+    "winningComboIndex": 286509468,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-09-28",
+    "winningComboIndex": 205558733,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-02",
+    "winningComboIndex": 63021900,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-05",
+    "winningComboIndex": 100437639,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-09",
+    "winningComboIndex": 87272407,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-12",
+    "winningComboIndex": 180787044,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-16",
+    "winningComboIndex": 4309424,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-19",
+    "winningComboIndex": 198585203,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-23",
+    "winningComboIndex": 83667840,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-26",
+    "winningComboIndex": 54294841,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-10-30",
+    "winningComboIndex": 232456322,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-02",
+    "winningComboIndex": 55383193,
+    "hasWinner": true
+  },
+  {
+    "date": "2019-11-06",
+    "winningComboIndex": 207296326,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-09",
+    "winningComboIndex": 194546792,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-13",
+    "winningComboIndex": 253033180,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-16",
+    "winningComboIndex": 196792673,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-20",
+    "winningComboIndex": 115616317,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-23",
+    "winningComboIndex": 271393534,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-27",
+    "winningComboIndex": 206634968,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-11-30",
+    "winningComboIndex": 208693827,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-04",
+    "winningComboIndex": 134549337,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-07",
+    "winningComboIndex": 230654292,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-11",
+    "winningComboIndex": 257975441,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-14",
+    "winningComboIndex": 43575706,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-18",
+    "winningComboIndex": 194923932,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-21",
+    "winningComboIndex": 235034293,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-25",
+    "winningComboIndex": 22870503,
+    "hasWinner": false
+  },
+  {
+    "date": "2019-12-28",
+    "winningComboIndex": 238272571,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-01",
+    "winningComboIndex": 291743841,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-04",
+    "winningComboIndex": 9668288,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-08",
+    "winningComboIndex": 22507337,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-11",
+    "winningComboIndex": 54368888,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-15",
+    "winningComboIndex": 287946872,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-18",
+    "winningComboIndex": 238629551,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-22",
+    "winningComboIndex": 171473751,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-25",
+    "winningComboIndex": 27835591,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-01-29",
+    "winningComboIndex": 139268325,
+    "hasWinner": true
+  },
+  {
+    "date": "2020-02-01",
+    "winningComboIndex": 181791258,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-02-05",
+    "winningComboIndex": 254257459,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-02-08",
+    "winningComboIndex": 284814249,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-02-12",
+    "winningComboIndex": 201549138,
+    "hasWinner": true
+  },
+  {
+    "date": "2020-02-15",
+    "winningComboIndex": 215702424,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-02-19",
+    "winningComboIndex": 151087942,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-02-22",
+    "winningComboIndex": 262923684,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-02-26",
+    "winningComboIndex": 134342153,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-02-29",
+    "winningComboIndex": 260055730,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-04",
+    "winningComboIndex": 230731813,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-07",
+    "winningComboIndex": 115266498,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-11",
+    "winningComboIndex": 75033947,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-14",
+    "winningComboIndex": 145618103,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-18",
+    "winningComboIndex": 207004753,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-21",
+    "winningComboIndex": 36763492,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-25",
+    "winningComboIndex": 80975013,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-03-28",
+    "winningComboIndex": 123300720,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-01",
+    "winningComboIndex": 281135441,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-04",
+    "winningComboIndex": 135487511,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-08",
+    "winningComboIndex": 40056098,
+    "hasWinner": true
+  },
+  {
+    "date": "2020-04-11",
+    "winningComboIndex": 249695462,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-15",
+    "winningComboIndex": 151564921,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-18",
+    "winningComboIndex": 77067112,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-22",
+    "winningComboIndex": 19476337,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-25",
+    "winningComboIndex": 1979267,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-04-29",
+    "winningComboIndex": 35563287,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-02",
+    "winningComboIndex": 185085573,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-06",
+    "winningComboIndex": 110226915,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-09",
+    "winningComboIndex": 176757560,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-13",
+    "winningComboIndex": 288434685,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-16",
+    "winningComboIndex": 126920362,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-20",
+    "winningComboIndex": 229659776,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-23",
+    "winningComboIndex": 26962275,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-27",
+    "winningComboIndex": 287771660,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-05-30",
+    "winningComboIndex": 191082099,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-06-03",
+    "winningComboIndex": 2104456,
+    "hasWinner": true
+  },
+  {
+    "date": "2020-06-06",
+    "winningComboIndex": 14018281,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-06-10",
+    "winningComboIndex": 160414661,
+    "hasWinner": true
+  },
+  {
+    "date": "2020-06-13",
+    "winningComboIndex": 30625638,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-06-17",
+    "winningComboIndex": 112121187,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-06-20",
+    "winningComboIndex": 160030472,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-06-24",
+    "winningComboIndex": 205023126,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-06-27",
+    "winningComboIndex": 149106237,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-01",
+    "winningComboIndex": 207322093,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-04",
+    "winningComboIndex": 212230803,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-08",
+    "winningComboIndex": 47823832,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-11",
+    "winningComboIndex": 195763597,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-15",
+    "winningComboIndex": 269891755,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-18",
+    "winningComboIndex": 185068944,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-22",
+    "winningComboIndex": 213909969,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-25",
+    "winningComboIndex": 88762171,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-07-29",
+    "winningComboIndex": 121412381,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-01",
+    "winningComboIndex": 105770935,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-05",
+    "winningComboIndex": 114511433,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-08",
+    "winningComboIndex": 21670633,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-12",
+    "winningComboIndex": 25059184,
+    "hasWinner": true
+  },
+  {
+    "date": "2020-08-15",
+    "winningComboIndex": 83516058,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-19",
+    "winningComboIndex": 188600616,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-22",
+    "winningComboIndex": 234823979,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-26",
+    "winningComboIndex": 126737339,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-08-29",
+    "winningComboIndex": 88462383,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-02",
+    "winningComboIndex": 2738129,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-05",
+    "winningComboIndex": 204472430,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-09",
+    "winningComboIndex": 270011554,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-12",
+    "winningComboIndex": 210068459,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-16",
+    "winningComboIndex": 154772696,
+    "hasWinner": true
+  },
+  {
+    "date": "2020-09-19",
+    "winningComboIndex": 163797881,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-23",
+    "winningComboIndex": 130451204,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-26",
+    "winningComboIndex": 167694849,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-09-30",
+    "winningComboIndex": 195109295,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-03",
+    "winningComboIndex": 229055703,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-07",
+    "winningComboIndex": 105336366,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-10",
+    "winningComboIndex": 87060887,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-14",
+    "winningComboIndex": 246725366,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-17",
+    "winningComboIndex": 97385154,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-21",
+    "winningComboIndex": 1706431,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-24",
+    "winningComboIndex": 225311221,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-28",
+    "winningComboIndex": 170293356,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-10-31",
+    "winningComboIndex": 25510703,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-04",
+    "winningComboIndex": 254651215,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-07",
+    "winningComboIndex": 194005387,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-11",
+    "winningComboIndex": 184081650,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-14",
+    "winningComboIndex": 115173363,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-18",
+    "winningComboIndex": 60340960,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-21",
+    "winningComboIndex": 291936408,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-25",
+    "winningComboIndex": 41084289,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-11-28",
+    "winningComboIndex": 126703529,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-02",
+    "winningComboIndex": 270692347,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-05",
+    "winningComboIndex": 41199791,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-09",
+    "winningComboIndex": 163972981,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-12",
+    "winningComboIndex": 224585055,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-16",
+    "winningComboIndex": 73071680,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-19",
+    "winningComboIndex": 268187724,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-23",
+    "winningComboIndex": 99773159,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-26",
+    "winningComboIndex": 157847941,
+    "hasWinner": false
+  },
+  {
+    "date": "2020-12-30",
+    "winningComboIndex": 59399041,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-01-02",
+    "winningComboIndex": 41426012,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-01-06",
+    "winningComboIndex": 15242606,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-01-09",
+    "winningComboIndex": 198420234,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-01-13",
+    "winningComboIndex": 71036641,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-01-16",
+    "winningComboIndex": 196138983,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-01-20",
+    "winningComboIndex": 289064199,
+    "hasWinner": true
+  },
+  {
+    "date": "2021-01-23",
+    "winningComboIndex": 79797731,
+    "hasWinner": true
+  },
+  {
+    "date": "2021-01-27",
+    "winningComboIndex": 222931678,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-01-30",
+    "winningComboIndex": 258443,
+    "hasWinner": true
+  },
+  {
+    "date": "2021-02-03",
+    "winningComboIndex": 92933702,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-02-06",
+    "winningComboIndex": 13520917,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-02-10",
+    "winningComboIndex": 209258796,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-02-13",
+    "winningComboIndex": 239803271,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-02-17",
+    "winningComboIndex": 12483848,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-02-20",
+    "winningComboIndex": 63436805,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-02-24",
+    "winningComboIndex": 75841890,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-02-27",
+    "winningComboIndex": 38241883,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-03",
+    "winningComboIndex": 246999287,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-06",
+    "winningComboIndex": 171118107,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-10",
+    "winningComboIndex": 217993793,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-13",
+    "winningComboIndex": 82909529,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-17",
+    "winningComboIndex": 282865848,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-20",
+    "winningComboIndex": 5255773,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-24",
+    "winningComboIndex": 64167939,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-03-27",
+    "winningComboIndex": 100455581,
+    "hasWinner": true
+  },
+  {
+    "date": "2021-03-31",
+    "winningComboIndex": 47945739,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-03",
+    "winningComboIndex": 10317402,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-07",
+    "winningComboIndex": 268768567,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-10",
+    "winningComboIndex": 193740536,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-14",
+    "winningComboIndex": 190554559,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-17",
+    "winningComboIndex": 156645006,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-21",
+    "winningComboIndex": 243949425,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-24",
+    "winningComboIndex": 251219041,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-04-28",
+    "winningComboIndex": 210924812,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-01",
+    "winningComboIndex": 283861814,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-05",
+    "winningComboIndex": 213058820,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-08",
+    "winningComboIndex": 175788243,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-12",
+    "winningComboIndex": 14694696,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-15",
+    "winningComboIndex": 65470701,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-19",
+    "winningComboIndex": 163505267,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-22",
+    "winningComboIndex": 53541261,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-26",
+    "winningComboIndex": 27068901,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-05-29",
+    "winningComboIndex": 163072201,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-02",
+    "winningComboIndex": 94144952,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-05",
+    "winningComboIndex": 290745987,
+    "hasWinner": true
+  },
+  {
+    "date": "2021-06-09",
+    "winningComboIndex": 234429658,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-12",
+    "winningComboIndex": 133810985,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-16",
+    "winningComboIndex": 234558972,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-19",
+    "winningComboIndex": 72638299,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-23",
+    "winningComboIndex": 187278182,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-26",
+    "winningComboIndex": 135490072,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-06-30",
+    "winningComboIndex": 258034023,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-03",
+    "winningComboIndex": 266468615,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-07",
+    "winningComboIndex": 132221551,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-10",
+    "winningComboIndex": 4394418,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-14",
+    "winningComboIndex": 282150267,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-17",
+    "winningComboIndex": 205218886,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-21",
+    "winningComboIndex": 267391082,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-24",
+    "winningComboIndex": 2767475,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-28",
+    "winningComboIndex": 261810618,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-07-31",
+    "winningComboIndex": 15677275,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-04",
+    "winningComboIndex": 88688899,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-07",
+    "winningComboIndex": 119936592,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-11",
+    "winningComboIndex": 176338853,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-14",
+    "winningComboIndex": 104362379,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-18",
+    "winningComboIndex": 283878971,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-21",
+    "winningComboIndex": 214803059,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-23",
+    "winningComboIndex": 223523262,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-25",
+    "winningComboIndex": 269357319,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-28",
+    "winningComboIndex": 178371387,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-08-30",
+    "winningComboIndex": 51561855,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-01",
+    "winningComboIndex": 156263708,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-04",
+    "winningComboIndex": 279563284,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-06",
+    "winningComboIndex": 167119183,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-08",
+    "winningComboIndex": 145473140,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-11",
+    "winningComboIndex": 240575212,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-13",
+    "winningComboIndex": 286321952,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-15",
+    "winningComboIndex": 3022758,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-18",
+    "winningComboIndex": 92787042,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-20",
+    "winningComboIndex": 286872500,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-22",
+    "winningComboIndex": 241962244,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-25",
+    "winningComboIndex": 247946444,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-27",
+    "winningComboIndex": 242930335,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-09-29",
+    "winningComboIndex": 25760810,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-02",
+    "winningComboIndex": 271816376,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-04",
+    "winningComboIndex": 178687172,
+    "hasWinner": true
+  },
+  {
+    "date": "2021-10-06",
+    "winningComboIndex": 14115894,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-09",
+    "winningComboIndex": 176052738,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-11",
+    "winningComboIndex": 167360489,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-13",
+    "winningComboIndex": 254144138,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-16",
+    "winningComboIndex": 275217594,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-18",
+    "winningComboIndex": 275476615,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-20",
+    "winningComboIndex": 121426764,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-23",
+    "winningComboIndex": 159873681,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-25",
+    "winningComboIndex": 158860153,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-27",
+    "winningComboIndex": 44017990,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-10-30",
+    "winningComboIndex": 89435260,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-01",
+    "winningComboIndex": 146493887,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-03",
+    "winningComboIndex": 871831,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-06",
+    "winningComboIndex": 135348546,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-08",
+    "winningComboIndex": 247409247,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-10",
+    "winningComboIndex": 233509315,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-13",
+    "winningComboIndex": 128964896,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-15",
+    "winningComboIndex": 91870268,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-17",
+    "winningComboIndex": 52189384,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-20",
+    "winningComboIndex": 288689250,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-22",
+    "winningComboIndex": 118177483,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-24",
+    "winningComboIndex": 154219328,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-27",
+    "winningComboIndex": 135796527,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-11-29",
+    "winningComboIndex": 227627286,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-01",
+    "winningComboIndex": 174995311,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-04",
+    "winningComboIndex": 161363047,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-06",
+    "winningComboIndex": 54660533,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-08",
+    "winningComboIndex": 45147151,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-11",
+    "winningComboIndex": 56248617,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-13",
+    "winningComboIndex": 159764413,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-15",
+    "winningComboIndex": 231500400,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-18",
+    "winningComboIndex": 25242048,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-20",
+    "winningComboIndex": 31142697,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-22",
+    "winningComboIndex": 115826738,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-25",
+    "winningComboIndex": 267652529,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-27",
+    "winningComboIndex": 285159204,
+    "hasWinner": false
+  },
+  {
+    "date": "2021-12-29",
+    "winningComboIndex": 24708304,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-01",
+    "winningComboIndex": 99069522,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-03",
+    "winningComboIndex": 31333999,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-05",
+    "winningComboIndex": 100222554,
+    "hasWinner": true
+  },
+  {
+    "date": "2022-01-08",
+    "winningComboIndex": 237420364,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-10",
+    "winningComboIndex": 194142814,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-12",
+    "winningComboIndex": 177835707,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-15",
+    "winningComboIndex": 53210598,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-17",
+    "winningComboIndex": 146165885,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-19",
+    "winningComboIndex": 164773605,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-22",
+    "winningComboIndex": 128456656,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-24",
+    "winningComboIndex": 170446135,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-26",
+    "winningComboIndex": 66291409,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-29",
+    "winningComboIndex": 32760244,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-01-31",
+    "winningComboIndex": 153790819,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-02",
+    "winningComboIndex": 228563284,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-05",
+    "winningComboIndex": 86040575,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-07",
+    "winningComboIndex": 85618503,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-09",
+    "winningComboIndex": 33873865,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-12",
+    "winningComboIndex": 125230514,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-14",
+    "winningComboIndex": 213756208,
+    "hasWinner": true
+  },
+  {
+    "date": "2022-02-16",
+    "winningComboIndex": 250075711,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-19",
+    "winningComboIndex": 47345932,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-21",
+    "winningComboIndex": 39902410,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-23",
+    "winningComboIndex": 101948045,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-26",
+    "winningComboIndex": 208111454,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-02-28",
+    "winningComboIndex": 118784268,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-02",
+    "winningComboIndex": 236143139,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-05",
+    "winningComboIndex": 133148040,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-07",
+    "winningComboIndex": 161635891,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-09",
+    "winningComboIndex": 188074415,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-12",
+    "winningComboIndex": 231464305,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-14",
+    "winningComboIndex": 244838053,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-16",
+    "winningComboIndex": 57023138,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-19",
+    "winningComboIndex": 124297633,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-21",
+    "winningComboIndex": 12630113,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-23",
+    "winningComboIndex": 277292077,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-26",
+    "winningComboIndex": 29242621,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-28",
+    "winningComboIndex": 166461726,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-03-30",
+    "winningComboIndex": 44868418,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-02",
+    "winningComboIndex": 106776557,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-04",
+    "winningComboIndex": 39273161,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-06",
+    "winningComboIndex": 108936247,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-09",
+    "winningComboIndex": 101617897,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-11",
+    "winningComboIndex": 79071905,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-13",
+    "winningComboIndex": 194054509,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-16",
+    "winningComboIndex": 204714327,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-18",
+    "winningComboIndex": 135981161,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-20",
+    "winningComboIndex": 240428487,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-23",
+    "winningComboIndex": 161277435,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-25",
+    "winningComboIndex": 176348623,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-04-27",
+    "winningComboIndex": 172000351,
+    "hasWinner": true
+  },
+  {
+    "date": "2022-04-30",
+    "winningComboIndex": 196557530,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-02",
+    "winningComboIndex": 228017979,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-04",
+    "winningComboIndex": 286243174,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-07",
+    "winningComboIndex": 59870599,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-09",
+    "winningComboIndex": 228827772,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-11",
+    "winningComboIndex": 79458201,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-14",
+    "winningComboIndex": 108740978,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-16",
+    "winningComboIndex": 115297298,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-18",
+    "winningComboIndex": 288576694,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-21",
+    "winningComboIndex": 193182844,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-23",
+    "winningComboIndex": 19501507,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-25",
+    "winningComboIndex": 234365550,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-28",
+    "winningComboIndex": 40363948,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-05-30",
+    "winningComboIndex": 267429729,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-01",
+    "winningComboIndex": 172524639,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-04",
+    "winningComboIndex": 193994465,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-06",
+    "winningComboIndex": 29105209,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-08",
+    "winningComboIndex": 251538098,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-11",
+    "winningComboIndex": 225292994,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-13",
+    "winningComboIndex": 38107990,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-15",
+    "winningComboIndex": 234385768,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-18",
+    "winningComboIndex": 155945034,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-20",
+    "winningComboIndex": 59510450,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-22",
+    "winningComboIndex": 97392891,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-25",
+    "winningComboIndex": 98678661,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-27",
+    "winningComboIndex": 162955223,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-06-29",
+    "winningComboIndex": 136874751,
+    "hasWinner": true
+  },
+  {
+    "date": "2022-07-02",
+    "winningComboIndex": 138238437,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-04",
+    "winningComboIndex": 201975049,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-06",
+    "winningComboIndex": 279773896,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-09",
+    "winningComboIndex": 197032989,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-11",
+    "winningComboIndex": 74052064,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-13",
+    "winningComboIndex": 247928071,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-16",
+    "winningComboIndex": 52931496,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-18",
+    "winningComboIndex": 200245582,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-20",
+    "winningComboIndex": 156126797,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-23",
+    "winningComboIndex": 287950635,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-25",
+    "winningComboIndex": 262901864,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-27",
+    "winningComboIndex": 17582005,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-07-30",
+    "winningComboIndex": 70398209,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-01",
+    "winningComboIndex": 204683819,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-03",
+    "winningComboIndex": 145133700,
+    "hasWinner": true
+  },
+  {
+    "date": "2022-08-06",
+    "winningComboIndex": 129252866,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-08",
+    "winningComboIndex": 280568507,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-10",
+    "winningComboIndex": 274760348,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-13",
+    "winningComboIndex": 233075467,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-15",
+    "winningComboIndex": 238703820,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-17",
+    "winningComboIndex": 253838725,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-20",
+    "winningComboIndex": 80447334,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-22",
+    "winningComboIndex": 180253796,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-24",
+    "winningComboIndex": 105408311,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-27",
+    "winningComboIndex": 34596601,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-29",
+    "winningComboIndex": 191753865,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-08-31",
+    "winningComboIndex": 109850624,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-03",
+    "winningComboIndex": 228185784,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-05",
+    "winningComboIndex": 62735762,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-07",
+    "winningComboIndex": 51972901,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-10",
+    "winningComboIndex": 287319893,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-12",
+    "winningComboIndex": 99959260,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-14",
+    "winningComboIndex": 137861176,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-17",
+    "winningComboIndex": 90288432,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-19",
+    "winningComboIndex": 115584254,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-21",
+    "winningComboIndex": 107742030,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-24",
+    "winningComboIndex": 46686211,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-26",
+    "winningComboIndex": 187141363,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-09-28",
+    "winningComboIndex": 97232652,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-01",
+    "winningComboIndex": 132042689,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-03",
+    "winningComboIndex": 33064923,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-05",
+    "winningComboIndex": 264836525,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-08",
+    "winningComboIndex": 192481878,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-10",
+    "winningComboIndex": 43515950,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-12",
+    "winningComboIndex": 199520443,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-15",
+    "winningComboIndex": 279836428,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-17",
+    "winningComboIndex": 234826382,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-19",
+    "winningComboIndex": 95215077,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-22",
+    "winningComboIndex": 233546863,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-24",
+    "winningComboIndex": 226719807,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-26",
+    "winningComboIndex": 235913779,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-29",
+    "winningComboIndex": 235092490,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-10-31",
+    "winningComboIndex": 186744882,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-02",
+    "winningComboIndex": 29635056,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-05",
+    "winningComboIndex": 272424119,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-07",
+    "winningComboIndex": 160412235,
+    "hasWinner": true
+  },
+  {
+    "date": "2022-11-09",
+    "winningComboIndex": 114699292,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-12",
+    "winningComboIndex": 212018929,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-14",
+    "winningComboIndex": 235890454,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-16",
+    "winningComboIndex": 271330940,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-19",
+    "winningComboIndex": 121320819,
+    "hasWinner": true
+  },
+  {
+    "date": "2022-11-21",
+    "winningComboIndex": 5587661,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-23",
+    "winningComboIndex": 1014804,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-26",
+    "winningComboIndex": 207792574,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-28",
+    "winningComboIndex": 272746623,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-11-30",
+    "winningComboIndex": 71081409,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-03",
+    "winningComboIndex": 99701556,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-05",
+    "winningComboIndex": 284647259,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-07",
+    "winningComboIndex": 106757112,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-10",
+    "winningComboIndex": 145914202,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-12",
+    "winningComboIndex": 215642552,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-14",
+    "winningComboIndex": 285947816,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-17",
+    "winningComboIndex": 282380577,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-19",
+    "winningComboIndex": 123010639,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-21",
+    "winningComboIndex": 174729373,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-24",
+    "winningComboIndex": 223644571,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-26",
+    "winningComboIndex": 224054834,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-28",
+    "winningComboIndex": 265332210,
+    "hasWinner": false
+  },
+  {
+    "date": "2022-12-31",
+    "winningComboIndex": 230126426,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-02",
+    "winningComboIndex": 110497551,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-04",
+    "winningComboIndex": 181611923,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-07",
+    "winningComboIndex": 283835721,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-09",
+    "winningComboIndex": 230701549,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-11",
+    "winningComboIndex": 63823400,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-14",
+    "winningComboIndex": 257115062,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-16",
+    "winningComboIndex": 68379638,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-18",
+    "winningComboIndex": 100797501,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-21",
+    "winningComboIndex": 84580283,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-23",
+    "winningComboIndex": 181375684,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-25",
+    "winningComboIndex": 142671299,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-28",
+    "winningComboIndex": 34187440,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-01-30",
+    "winningComboIndex": 2795940,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-01",
+    "winningComboIndex": 278756590,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-04",
+    "winningComboIndex": 26857203,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-06",
+    "winningComboIndex": 82484486,
+    "hasWinner": true
+  },
+  {
+    "date": "2023-02-08",
+    "winningComboIndex": 292028394,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-11",
+    "winningComboIndex": 157552028,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-13",
+    "winningComboIndex": 221289901,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-15",
+    "winningComboIndex": 277420739,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-18",
+    "winningComboIndex": 132226948,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-20",
+    "winningComboIndex": 52469002,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-22",
+    "winningComboIndex": 166965038,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-25",
+    "winningComboIndex": 169188031,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-02-27",
+    "winningComboIndex": 214922522,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-01",
+    "winningComboIndex": 28132653,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-04",
+    "winningComboIndex": 153869757,
+    "hasWinner": true
+  },
+  {
+    "date": "2023-03-06",
+    "winningComboIndex": 31294617,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-08",
+    "winningComboIndex": 264195259,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-11",
+    "winningComboIndex": 167363167,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-13",
+    "winningComboIndex": 47632237,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-15",
+    "winningComboIndex": 210893079,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-18",
+    "winningComboIndex": 196004416,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-20",
+    "winningComboIndex": 18055739,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-22",
+    "winningComboIndex": 267317210,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-25",
+    "winningComboIndex": 202389452,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-27",
+    "winningComboIndex": 233754313,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-03-29",
+    "winningComboIndex": 64390124,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-01",
+    "winningComboIndex": 166608094,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-03",
+    "winningComboIndex": 215228884,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-05",
+    "winningComboIndex": 42422130,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-08",
+    "winningComboIndex": 168055671,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-10",
+    "winningComboIndex": 138219861,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-12",
+    "winningComboIndex": 149044847,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-15",
+    "winningComboIndex": 19470013,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-17",
+    "winningComboIndex": 252876102,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-19",
+    "winningComboIndex": 65951298,
+    "hasWinner": true
+  },
+  {
+    "date": "2023-04-22",
+    "winningComboIndex": 223524000,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-24",
+    "winningComboIndex": 232044906,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-26",
+    "winningComboIndex": 32627223,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-04-29",
+    "winningComboIndex": 217528539,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-01",
+    "winningComboIndex": 59012824,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-03",
+    "winningComboIndex": 244227408,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-06",
+    "winningComboIndex": 278393861,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-08",
+    "winningComboIndex": 204267243,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-10",
+    "winningComboIndex": 243619534,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-13",
+    "winningComboIndex": 51112136,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-15",
+    "winningComboIndex": 17685536,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-17",
+    "winningComboIndex": 229627801,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-20",
+    "winningComboIndex": 220171298,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-22",
+    "winningComboIndex": 149345792,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-24",
+    "winningComboIndex": 178212969,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-27",
+    "winningComboIndex": 259506133,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-29",
+    "winningComboIndex": 245993641,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-05-31",
+    "winningComboIndex": 23486697,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-03",
+    "winningComboIndex": 209699481,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-05",
+    "winningComboIndex": 39123571,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-07",
+    "winningComboIndex": 212270345,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-10",
+    "winningComboIndex": 245881119,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-12",
+    "winningComboIndex": 21727738,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-14",
+    "winningComboIndex": 54181299,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-17",
+    "winningComboIndex": 30778747,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-19",
+    "winningComboIndex": 285298650,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-21",
+    "winningComboIndex": 82732611,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-24",
+    "winningComboIndex": 40219964,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-26",
+    "winningComboIndex": 106703881,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-06-28",
+    "winningComboIndex": 233412117,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-01",
+    "winningComboIndex": 70244649,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-03",
+    "winningComboIndex": 206535760,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-05",
+    "winningComboIndex": 220719352,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-08",
+    "winningComboIndex": 119325535,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-10",
+    "winningComboIndex": 37055030,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-12",
+    "winningComboIndex": 255303197,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-15",
+    "winningComboIndex": 28353693,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-17",
+    "winningComboIndex": 79470866,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-19",
+    "winningComboIndex": 111278541,
+    "hasWinner": true
+  },
+  {
+    "date": "2023-07-22",
+    "winningComboIndex": 260900022,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-24",
+    "winningComboIndex": 41455568,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-26",
+    "winningComboIndex": 52127049,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-29",
+    "winningComboIndex": 158190995,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-07-31",
+    "winningComboIndex": 30035342,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-02",
+    "winningComboIndex": 252498094,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-05",
+    "winningComboIndex": 230609024,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-07",
+    "winningComboIndex": 99407771,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-09",
+    "winningComboIndex": 153363030,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-12",
+    "winningComboIndex": 231920987,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-14",
+    "winningComboIndex": 279365790,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-16",
+    "winningComboIndex": 138564166,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-19",
+    "winningComboIndex": 17333718,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-21",
+    "winningComboIndex": 41448227,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-23",
+    "winningComboIndex": 261607833,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-26",
+    "winningComboIndex": 237642500,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-28",
+    "winningComboIndex": 61610223,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-08-30",
+    "winningComboIndex": 67738375,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-02",
+    "winningComboIndex": 263070852,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-04",
+    "winningComboIndex": 17756270,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-06",
+    "winningComboIndex": 140828480,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-09",
+    "winningComboIndex": 166821224,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-11",
+    "winningComboIndex": 146370800,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-13",
+    "winningComboIndex": 250043005,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-16",
+    "winningComboIndex": 125956536,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-18",
+    "winningComboIndex": 35711268,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-20",
+    "winningComboIndex": 214675522,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-23",
+    "winningComboIndex": 10408262,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-25",
+    "winningComboIndex": 151329207,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-27",
+    "winningComboIndex": 6617812,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-09-30",
+    "winningComboIndex": 234837689,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-02",
+    "winningComboIndex": 179820398,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-04",
+    "winningComboIndex": 148983874,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-07",
+    "winningComboIndex": 291474396,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-09",
+    "winningComboIndex": 216179691,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-11",
+    "winningComboIndex": 248346367,
+    "hasWinner": true
+  },
+  {
+    "date": "2023-10-14",
+    "winningComboIndex": 194058449,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-16",
+    "winningComboIndex": 37965035,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-18",
+    "winningComboIndex": 2835375,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-21",
+    "winningComboIndex": 100859782,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-23",
+    "winningComboIndex": 225715640,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-25",
+    "winningComboIndex": 260966603,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-28",
+    "winningComboIndex": 197853163,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-10-30",
+    "winningComboIndex": 232305818,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-01",
+    "winningComboIndex": 248998527,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-04",
+    "winningComboIndex": 18287443,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-06",
+    "winningComboIndex": 179710673,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-08",
+    "winningComboIndex": 196497333,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-11",
+    "winningComboIndex": 10195568,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-13",
+    "winningComboIndex": 258734886,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-15",
+    "winningComboIndex": 42213579,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-18",
+    "winningComboIndex": 283638127,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-20",
+    "winningComboIndex": 233655824,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-22",
+    "winningComboIndex": 238550826,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-25",
+    "winningComboIndex": 268551798,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-27",
+    "winningComboIndex": 35925719,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-11-29",
+    "winningComboIndex": 109235155,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-02",
+    "winningComboIndex": 271419774,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-04",
+    "winningComboIndex": 224817536,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-06",
+    "winningComboIndex": 30701132,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-09",
+    "winningComboIndex": 90102818,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-11",
+    "winningComboIndex": 16983193,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-13",
+    "winningComboIndex": 46185637,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-16",
+    "winningComboIndex": 46286706,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-18",
+    "winningComboIndex": 79869945,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-20",
+    "winningComboIndex": 268790745,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-23",
+    "winningComboIndex": 140726409,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-25",
+    "winningComboIndex": 83187939,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-27",
+    "winningComboIndex": 66292334,
+    "hasWinner": false
+  },
+  {
+    "date": "2023-12-30",
+    "winningComboIndex": 150660100,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-01",
+    "winningComboIndex": 178193106,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-01-03",
+    "winningComboIndex": 275190091,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-06",
+    "winningComboIndex": 75342578,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-08",
+    "winningComboIndex": 116628071,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-10",
+    "winningComboIndex": 263274034,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-13",
+    "winningComboIndex": 190777016,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-15",
+    "winningComboIndex": 190586789,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-17",
+    "winningComboIndex": 226419831,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-20",
+    "winningComboIndex": 215494041,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-22",
+    "winningComboIndex": 256834780,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-24",
+    "winningComboIndex": 4447619,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-27",
+    "winningComboIndex": 123136982,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-29",
+    "winningComboIndex": 287891139,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-01-31",
+    "winningComboIndex": 202958561,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-03",
+    "winningComboIndex": 138871270,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-05",
+    "winningComboIndex": 927714,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-07",
+    "winningComboIndex": 178276556,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-10",
+    "winningComboIndex": 267267215,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-12",
+    "winningComboIndex": 223493673,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-14",
+    "winningComboIndex": 3512279,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-17",
+    "winningComboIndex": 106814624,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-19",
+    "winningComboIndex": 73143944,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-21",
+    "winningComboIndex": 74337887,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-24",
+    "winningComboIndex": 46174546,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-26",
+    "winningComboIndex": 257979035,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-02-28",
+    "winningComboIndex": 214111383,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-02",
+    "winningComboIndex": 53031171,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-04",
+    "winningComboIndex": 285545519,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-06",
+    "winningComboIndex": 103178305,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-09",
+    "winningComboIndex": 276134393,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-11",
+    "winningComboIndex": 1416042,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-13",
+    "winningComboIndex": 245292089,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-16",
+    "winningComboIndex": 179032026,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-18",
+    "winningComboIndex": 154505457,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-20",
+    "winningComboIndex": 187947326,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-23",
+    "winningComboIndex": 104848200,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-25",
+    "winningComboIndex": 112411516,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-27",
+    "winningComboIndex": 286728579,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-03-30",
+    "winningComboIndex": 173596510,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-01",
+    "winningComboIndex": 233135236,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-03",
+    "winningComboIndex": 172162394,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-06",
+    "winningComboIndex": 249345390,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-04-08",
+    "winningComboIndex": 103985852,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-10",
+    "winningComboIndex": 94159976,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-13",
+    "winningComboIndex": 122320285,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-15",
+    "winningComboIndex": 116254420,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-17",
+    "winningComboIndex": 257993243,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-20",
+    "winningComboIndex": 76145210,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-22",
+    "winningComboIndex": 175525714,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-24",
+    "winningComboIndex": 35148068,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-27",
+    "winningComboIndex": 148046388,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-04-29",
+    "winningComboIndex": 172208153,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-01",
+    "winningComboIndex": 9604024,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-04",
+    "winningComboIndex": 195846953,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-06",
+    "winningComboIndex": 119341272,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-05-08",
+    "winningComboIndex": 123347046,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-11",
+    "winningComboIndex": 44243362,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-13",
+    "winningComboIndex": 84827522,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-15",
+    "winningComboIndex": 236602267,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-18",
+    "winningComboIndex": 235911304,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-20",
+    "winningComboIndex": 6635152,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-22",
+    "winningComboIndex": 85785573,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-25",
+    "winningComboIndex": 107750341,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-27",
+    "winningComboIndex": 147952734,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-05-29",
+    "winningComboIndex": 223258420,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-01",
+    "winningComboIndex": 271878445,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-03",
+    "winningComboIndex": 234567491,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-05",
+    "winningComboIndex": 137137999,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-08",
+    "winningComboIndex": 136684874,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-10",
+    "winningComboIndex": 47820586,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-06-12",
+    "winningComboIndex": 234754800,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-15",
+    "winningComboIndex": 76342657,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-17",
+    "winningComboIndex": 277059960,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-19",
+    "winningComboIndex": 74469674,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-22",
+    "winningComboIndex": 60262066,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-24",
+    "winningComboIndex": 78331741,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-26",
+    "winningComboIndex": 64617520,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-06-29",
+    "winningComboIndex": 267081670,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-01",
+    "winningComboIndex": 81071804,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-03",
+    "winningComboIndex": 37705507,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-07-06",
+    "winningComboIndex": 92079436,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-08",
+    "winningComboIndex": 237748498,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-10",
+    "winningComboIndex": 112140521,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-13",
+    "winningComboIndex": 150172796,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-15",
+    "winningComboIndex": 148166092,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-17",
+    "winningComboIndex": 257317319,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-20",
+    "winningComboIndex": 227366025,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-22",
+    "winningComboIndex": 278078053,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-24",
+    "winningComboIndex": 217129678,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-27",
+    "winningComboIndex": 57782364,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-29",
+    "winningComboIndex": 169901487,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-07-31",
+    "winningComboIndex": 255066662,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-03",
+    "winningComboIndex": 191258437,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-05",
+    "winningComboIndex": 274572647,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-07",
+    "winningComboIndex": 103301596,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-10",
+    "winningComboIndex": 146142238,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-12",
+    "winningComboIndex": 145558751,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-08-14",
+    "winningComboIndex": 124429850,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-17",
+    "winningComboIndex": 181342013,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-19",
+    "winningComboIndex": 572633,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-08-21",
+    "winningComboIndex": 267966974,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-24",
+    "winningComboIndex": 85265378,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-26",
+    "winningComboIndex": 23104758,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-28",
+    "winningComboIndex": 92387873,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-08-31",
+    "winningComboIndex": 75915208,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-02",
+    "winningComboIndex": 137015289,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-04",
+    "winningComboIndex": 111655667,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-07",
+    "winningComboIndex": 200260703,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-09",
+    "winningComboIndex": 13104602,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-11",
+    "winningComboIndex": 151755346,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-14",
+    "winningComboIndex": 273609091,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-16",
+    "winningComboIndex": 124019366,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-18",
+    "winningComboIndex": 9715348,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-21",
+    "winningComboIndex": 218177349,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-23",
+    "winningComboIndex": 204559126,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-25",
+    "winningComboIndex": 37834180,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-28",
+    "winningComboIndex": 48062945,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-09-30",
+    "winningComboIndex": 138924935,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-02",
+    "winningComboIndex": 782256,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-05",
+    "winningComboIndex": 30782520,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-07",
+    "winningComboIndex": 228764219,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-09",
+    "winningComboIndex": 262177145,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-12",
+    "winningComboIndex": 84607411,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-14",
+    "winningComboIndex": 195070187,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-16",
+    "winningComboIndex": 75192114,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-19",
+    "winningComboIndex": 115824928,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-21",
+    "winningComboIndex": 17638076,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-23",
+    "winningComboIndex": 32560417,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-10-26",
+    "winningComboIndex": 127150596,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-28",
+    "winningComboIndex": 244563712,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-10-30",
+    "winningComboIndex": 187983011,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-02",
+    "winningComboIndex": 161722783,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-04",
+    "winningComboIndex": 102762394,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-06",
+    "winningComboIndex": 176167137,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-09",
+    "winningComboIndex": 169165141,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-11",
+    "winningComboIndex": 54397104,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-13",
+    "winningComboIndex": 144363630,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-16",
+    "winningComboIndex": 242681467,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-18",
+    "winningComboIndex": 268076067,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-20",
+    "winningComboIndex": 215448140,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-23",
+    "winningComboIndex": 173609001,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-25",
+    "winningComboIndex": 92704519,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-27",
+    "winningComboIndex": 4662584,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-11-30",
+    "winningComboIndex": 73302032,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-02",
+    "winningComboIndex": 46841040,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-04",
+    "winningComboIndex": 16565314,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-07",
+    "winningComboIndex": 19184537,
+    "hasWinner": true
+  },
+  {
+    "date": "2024-12-09",
+    "winningComboIndex": 283929071,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-11",
+    "winningComboIndex": 192528095,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-14",
+    "winningComboIndex": 175899438,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-16",
+    "winningComboIndex": 147875926,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-18",
+    "winningComboIndex": 100670420,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-21",
+    "winningComboIndex": 10299510,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-23",
+    "winningComboIndex": 251800969,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-25",
+    "winningComboIndex": 206448764,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-28",
+    "winningComboIndex": 107507801,
+    "hasWinner": false
+  },
+  {
+    "date": "2024-12-30",
+    "winningComboIndex": 144015690,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-01",
+    "winningComboIndex": 98889231,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-04",
+    "winningComboIndex": 265385949,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-06",
+    "winningComboIndex": 223220829,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-08",
+    "winningComboIndex": 15510609,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-11",
+    "winningComboIndex": 44138877,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-13",
+    "winningComboIndex": 61336478,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-15",
+    "winningComboIndex": 136970060,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-18",
+    "winningComboIndex": 199678514,
+    "hasWinner": true
+  },
+  {
+    "date": "2025-01-20",
+    "winningComboIndex": 202154191,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-22",
+    "winningComboIndex": 78167158,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-25",
+    "winningComboIndex": 128723179,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-27",
+    "winningComboIndex": 40441433,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-01-29",
+    "winningComboIndex": 127016725,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-01",
+    "winningComboIndex": 253978407,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-03",
+    "winningComboIndex": 182358608,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-05",
+    "winningComboIndex": 233961143,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-08",
+    "winningComboIndex": 256225978,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-10",
+    "winningComboIndex": 33501210,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-12",
+    "winningComboIndex": 245814703,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-15",
+    "winningComboIndex": 52172053,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-17",
+    "winningComboIndex": 77071444,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-19",
+    "winningComboIndex": 104109895,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-22",
+    "winningComboIndex": 117031734,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-24",
+    "winningComboIndex": 150832903,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-02-26",
+    "winningComboIndex": 272550791,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-01",
+    "winningComboIndex": 36709502,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-03",
+    "winningComboIndex": 225587927,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-05",
+    "winningComboIndex": 257707079,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-08",
+    "winningComboIndex": 22863294,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-10",
+    "winningComboIndex": 223965981,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-12",
+    "winningComboIndex": 163235332,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-15",
+    "winningComboIndex": 180503782,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-17",
+    "winningComboIndex": 166161900,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-19",
+    "winningComboIndex": 126037588,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-22",
+    "winningComboIndex": 94596097,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-24",
+    "winningComboIndex": 105038607,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-26",
+    "winningComboIndex": 88186623,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-03-29",
+    "winningComboIndex": 112471217,
+    "hasWinner": true
+  },
+  {
+    "date": "2025-03-31",
+    "winningComboIndex": 182740764,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-02",
+    "winningComboIndex": 86839714,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-05",
+    "winningComboIndex": 72957041,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-07",
+    "winningComboIndex": 238343693,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-09",
+    "winningComboIndex": 74936715,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-12",
+    "winningComboIndex": 212884638,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-14",
+    "winningComboIndex": 54091076,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-16",
+    "winningComboIndex": 238663456,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-19",
+    "winningComboIndex": 120285308,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-21",
+    "winningComboIndex": 75853048,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-23",
+    "winningComboIndex": 209646573,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-26",
+    "winningComboIndex": 10188465,
+    "hasWinner": true
+  },
+  {
+    "date": "2025-04-28",
+    "winningComboIndex": 266761609,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-04-30",
+    "winningComboIndex": 53776,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-03",
+    "winningComboIndex": 156566849,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-05",
+    "winningComboIndex": 216125902,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-07",
+    "winningComboIndex": 193282589,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-10",
+    "winningComboIndex": 88166064,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-12",
+    "winningComboIndex": 202271752,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-14",
+    "winningComboIndex": 65221315,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-17",
+    "winningComboIndex": 122489342,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-19",
+    "winningComboIndex": 183885036,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-21",
+    "winningComboIndex": 147590379,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-24",
+    "winningComboIndex": 176556098,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-26",
+    "winningComboIndex": 192677938,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-28",
+    "winningComboIndex": 253434672,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-05-31",
+    "winningComboIndex": 18666842,
+    "hasWinner": true
+  },
+  {
+    "date": "2025-06-02",
+    "winningComboIndex": 6608310,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-04",
+    "winningComboIndex": 86515283,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-07",
+    "winningComboIndex": 278013682,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-09",
+    "winningComboIndex": 275596228,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-11",
+    "winningComboIndex": 189086380,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-14",
+    "winningComboIndex": 61040068,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-16",
+    "winningComboIndex": 219151782,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-18",
+    "winningComboIndex": 254160072,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-21",
+    "winningComboIndex": 52022019,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-23",
+    "winningComboIndex": 90350539,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-25",
+    "winningComboIndex": 30699079,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-28",
+    "winningComboIndex": 76167141,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-06-30",
+    "winningComboIndex": 190189381,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-02",
+    "winningComboIndex": 117514898,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-05",
+    "winningComboIndex": 18366069,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-07",
+    "winningComboIndex": 281188750,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-09",
+    "winningComboIndex": 80919830,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-12",
+    "winningComboIndex": 129524347,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-14",
+    "winningComboIndex": 127193895,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-16",
+    "winningComboIndex": 72311585,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-19",
+    "winningComboIndex": 272539429,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-21",
+    "winningComboIndex": 126198229,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-23",
+    "winningComboIndex": 34070008,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-26",
+    "winningComboIndex": 135598394,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-28",
+    "winningComboIndex": 122598998,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-07-30",
+    "winningComboIndex": 69061545,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-02",
+    "winningComboIndex": 102768277,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-04",
+    "winningComboIndex": 124316316,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-06",
+    "winningComboIndex": 206990688,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-09",
+    "winningComboIndex": 114667189,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-11",
+    "winningComboIndex": 101641463,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-13",
+    "winningComboIndex": 66309909,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-16",
+    "winningComboIndex": 255914408,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-18",
+    "winningComboIndex": 209743846,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-20",
+    "winningComboIndex": 279144272,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-23",
+    "winningComboIndex": 164022239,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-25",
+    "winningComboIndex": 211418527,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-27",
+    "winningComboIndex": 139500138,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-08-30",
+    "winningComboIndex": 52898888,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-01",
+    "winningComboIndex": 132925368,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-03",
+    "winningComboIndex": 51970147,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-06",
+    "winningComboIndex": 168762792,
+    "hasWinner": true
+  },
+  {
+    "date": "2025-09-08",
+    "winningComboIndex": 264452326,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-10",
+    "winningComboIndex": 37172724,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-13",
+    "winningComboIndex": 271701110,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-15",
+    "winningComboIndex": 193319334,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-17",
+    "winningComboIndex": 121788647,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-20",
+    "winningComboIndex": 207599525,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-22",
+    "winningComboIndex": 57382170,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-24",
+    "winningComboIndex": 207998900,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-27",
+    "winningComboIndex": 154219003,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-09-29",
+    "winningComboIndex": 2135759,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-01",
+    "winningComboIndex": 130041379,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-04",
+    "winningComboIndex": 45297123,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-06",
+    "winningComboIndex": 270138676,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-08",
+    "winningComboIndex": 125624577,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-11",
+    "winningComboIndex": 184699537,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-13",
+    "winningComboIndex": 183812991,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-15",
+    "winningComboIndex": 152192548,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-18",
+    "winningComboIndex": 48500851,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-20",
+    "winningComboIndex": 280049866,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-22",
+    "winningComboIndex": 230170159,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-25",
+    "winningComboIndex": 30399266,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-27",
+    "winningComboIndex": 223844185,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-10-29",
+    "winningComboIndex": 73539674,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-01",
+    "winningComboIndex": 37818243,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-03",
+    "winningComboIndex": 58020265,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-05",
+    "winningComboIndex": 142905489,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-08",
+    "winningComboIndex": 59791118,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-10",
+    "winningComboIndex": 106752746,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-12",
+    "winningComboIndex": 274308914,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-15",
+    "winningComboIndex": 94180158,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-17",
+    "winningComboIndex": 122396764,
+    "hasWinner": false
+  },
+  {
+    "date": "2025-11-19",
+    "winningComboIndex": 160082460,
+    "hasWinner": false
+  }
+]
