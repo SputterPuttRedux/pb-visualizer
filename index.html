@@ -212,22 +212,51 @@
             titleFont: { size: 14 },
             bodyFont: { size: 13 },
             padding: 12,
+            displayColors: false,
             callbacks: {
               title: function(context) {
                 const idx = context[0].dataIndex;
-                return 'Draw Date: ' + data[idx].date;
+                const hasWinner = data[idx].hasWinner;
+                return (hasWinner ? '🟥' : '🟦') + 'Draw Date: ' + new Date(data[idx].date).toLocaleDateString('en-US', { month: '2-digit', day: '2-digit', year: 'numeric' }).replace(/\//g, '-');
               },
               label: function(context) {
                 const idx = context.dataIndex;
                 const index = data[idx].winningComboIndex;
-                const percentage = ((index / 292201338) * 100).toFixed(4);
                 const hasWinner = data[idx].hasWinner;
+
+                function choose(n, k) {
+                    if (k > n || k < 0) return 0;
+                    if (k === 0 || k === n) return 1;
+                    k = Math.min(k, n - k);
+                    let result = 1;
+                    for (let i = 0; i < k; i++) result = result * (n - i) / (i + 1);
+                    return Math.round(result);
+                }
+
+                function unrank(comboIndex) {
+                  const pb = (comboIndex % 26) + 1;
+                  let rank = Math.floor(comboIndex / 26);
+                  const balls = [];
+                  let start = 69;
+                  for (let i = 5; i >= 1; i--) {
+                    let v = start;
+                    while (choose(v, i) > rank) v--;
+                    balls.unshift(v + 1);
+                    rank -= choose(v, i);
+                    start = v - 1;
+                  }
+                  return { whiteBalls: balls, powerball: pb };
+                }
+
+                const { whiteBalls, powerball } = unrank(index);
+                const numbersStr = whiteBalls.join(' · ') + '  PB: ' + powerball;
+
                 return [
-                  'Combo Index: ' + index.toLocaleString(),
-                  'Position: ' + percentage + '% through combo space',
-                  hasWinner ? '🎉 Jackpot Winner!' : 'No Jackpot Winner'
+                    'Combo Index: ' + index.toLocaleString(),
+                    'Winning Combo ' + numbersStr,
+                    hasWinner ? 'Jackpot Winner! 🎉' : 'No Jackpot Winner'
                 ];
-              }
+                }
             }
           }
         },
