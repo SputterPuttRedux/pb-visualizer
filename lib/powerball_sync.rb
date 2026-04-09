@@ -242,13 +242,14 @@ class PowerballSync
       years_to_fetch = YEAR_URLS.keys.sort
     else
       puts "Loaded #{existing.length} existing records"
-      puts "Refreshing #{current_year} data only"
-      years_to_fetch = [current_year]
+      prev_year = current_year - 1
+      years_to_fetch = YEAR_URLS.key?(prev_year) ? [prev_year, current_year] : [current_year]
+      puts "Refreshing #{years_to_fetch.join(', ')} data"
     end
 
     # Drop records for the years we're about to re-fetch
     retained = existing.reject do |r|
-      Date.parse(r[:date]).year == current_year
+      years_to_fetch.include?(Date.parse(r[:date]).year)
     end
 
     new_records = fetch_years(years_to_fetch)

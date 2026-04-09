@@ -217,7 +217,9 @@
               title: function(context) {
                 const idx = context[0].dataIndex;
                 const hasWinner = data[idx].hasWinner;
-                return (hasWinner ? '🟥' : '🟦') + 'Draw Date: ' + new Date(data[idx].date).toLocaleDateString('en-US', { month: '2-digit', day: '2-digit', year: 'numeric' }).replace(/\//g, '-');
+                const [year, month, day] = data[idx].date.split('-').map(Number);
+                const localDate = new Date(year, month - 1, day);
+                return (hasWinner ? '🟥' : '🟦') + 'Draw Date: ' + localDate.toLocaleDateString('en-US', { month: '2-digit', day: '2-digit', year: 'numeric' }).replace(/\//g, '-');
               },
               label: function(context) {
                 const idx = context.dataIndex;
@@ -237,13 +239,17 @@
                   const pb = (comboIndex % 26) + 1;
                   let rank = Math.floor(comboIndex / 26);
                   const balls = [];
-                  let start = 69;
-                  for (let i = 5; i >= 1; i--) {
+                  let start = 1;
+                  for (let i = 0; i < 5; i++) {
                     let v = start;
-                    while (choose(v, i) > rank) v--;
-                    balls.unshift(v + 1);
-                    rank -= choose(v, i);
-                    start = v - 1;
+                    while (v <= 69 - (4 - i)) {
+                      const c = choose(69 - v, 4 - i);
+                      if (c > rank) break;
+                      rank -= c;
+                      v++;
+                    }
+                    balls.push(v);
+                    start = v + 1;
                   }
                   return { whiteBalls: balls, powerball: pb };
                 }
