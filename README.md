@@ -45,13 +45,13 @@ Draw results are sourced from the [Texas Lottery's Powerball past winning number
 A GitHub Actions workflow runs automatically 24 hours after each draw (Monday, Wednesday, and Saturday nights) and does the following:
 
 1. Loads the existing `data/powerball_data.json`
-2. Drops all records from the current calendar year
-3. Fetches the current year's draw results from the Texas Lottery site
+2. Drops all records from the current and previous calendar years
+3. Fetches both years' draw results from the Texas Lottery site
 4. Computes the combo index for each new draw
 5. Merges with the retained historical data, sorts by date, and writes the updated JSON back to the repo
 6. GitHub Pages redeploys automatically, serving the fresh data
 
-Historical data (all years prior to the current year) is never re-fetched — those draw results are immutable and are committed directly into the repo.
+Historical data (all years prior to the previous year) is never re-fetched — those draw results are immutable and are committed directly into the repo.
 
 ---
 
