@@ -6,6 +6,15 @@
   <title>Powerball Winning Combo Index Over Time</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9Y04EFTYBG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-9Y04EFTYBG');
+    </script>
   <style>
     * {
       margin: 0;
@@ -100,6 +109,24 @@
       font-size: 0.85rem;
       margin-top: 15px;
     }
+    .donate {
+      text-align: center;
+      margin-top: 24px;
+      padding: 12px 20px;
+      background: rgba(255, 255, 255, 0.04);
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: #8892b0;
+      font-size: 0.85rem;
+    }
+    .donate a {
+      color: #f39c12;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .donate a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -144,6 +171,13 @@
       Index range: 0 to 292,201,337 (all possible Powerball combinations)<br>
       Hover over points to see details. Winner draws are highlighted in red.
     </p>
+
+    <div class="donate">
+      If you find this useful, consider donating! &nbsp;
+      <a href="https://cash.app/$DionneStanfield" target="_blank" rel="noopener">CashApp $DionneStanfield</a>
+      &nbsp;·&nbsp;
+      <a href="https://venmo.com/Dionne-Stanfield" target="_blank" rel="noopener">Venmo @Dionne-Stanfield</a>
+    </div>
   </div>
 
   <script>
