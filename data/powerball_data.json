@@ -6743,5 +6743,10 @@
     "date": "2026-05-02",
     "winningComboIndex": 262950467,
     "hasWinner": true
+  },
+  {
+    "date": "2026-05-04",
+    "winningComboIndex": 276090580,
+    "hasWinner": false
   }
 ]
